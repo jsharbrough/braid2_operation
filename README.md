@@ -14,7 +14,7 @@ The /home partition is backed up, and there is a small amount of space available
 
 ##### /scratch partition
 The /scratch partition is where we should operate any computational activities and where we can submit jobs from. 
-When first beginning on the system, make a personal folder there.  
+There is lots of space on /scratch, so feel free to put large files there, ***but remember it isnt backed up!*** When first beginning on the system, make a personal folder there.  
     
     mkdir $USER
 
