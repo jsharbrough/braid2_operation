@@ -14,4 +14,4 @@ crontab -e
 
 # Then press enter, and you are done! Every individual file within your 
 # name directory on scratch will be touched at midnight, so scratch will
-#not delete it during wipes.
+# not delete it during wipes.
